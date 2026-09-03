@@ -1,6 +1,7 @@
 # Dageling003-DSH-portable-version
 
-DSH portable version **dsh免安装**
+DSH portable version **dsh免安装** 
+初始化版本
 
 > 注意：任何包请解压使用，小文件较多，解压较慢
 
